@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="60">
+  <rect x="0" y="17" width="94" height="26" rx="13" ry="13" fill="#F9DCED"/>
+  <text x="47" y="35" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#A01471" text-anchor="middle">Elektřina</text>
+  <rect x="102" y="17" width="60" height="26" rx="13" ry="13" fill="#D6F5FF"/>
+  <text x="132" y="35" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#0A73B7" text-anchor="middle">Plyn</text>
+</svg>
