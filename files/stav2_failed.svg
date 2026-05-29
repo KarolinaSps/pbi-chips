@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="134" height="26">
-  <rect x="0" y="0" width="66" height="26" rx="13" ry="13" fill="#FCEBEB"/>
-  <text x="33" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#791F1F" text-anchor="middle">failed</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="26">
+  <rect x="0" y="0" width="90" height="26" rx="13" ry="13" fill="#FCEBEB"/>
+  <text x="45" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#791F1F" text-anchor="middle">fail.</text>
 </svg>
